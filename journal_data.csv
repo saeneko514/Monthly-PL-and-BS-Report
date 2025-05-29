@@ -1,0 +1,17 @@
+Date,Account,Debit,Credit,Description
+2025-01-05,Sales,0,300000,Product sales
+2025-01-05,Accounts Receivable,300000,0,Product sales
+2025-01-07,Cost of Goods Sold,150000,0,Purchase cost
+2025-01-07,Inventory,0,150000,Decrease inventory
+2025-01-10,Rent Expense,100000,0,Office rent
+2025-01-10,Cash,0,100000,Pay rent
+2025-01-15,Utilities Expense,20000,0,Electricity bill
+2025-01-15,Accounts Payable,0,20000,Accrue electricity
+2025-01-20,Salaries Expense,120000,0,Employee salaries
+2025-01-20,Cash,0,120000,Pay salaries
+2025-02-05,Sales,0,400000,Product sales
+2025-02-05,Accounts Receivable,400000,0,Product sales
+2025-02-10,Cost of Goods Sold,200000,0,Purchase cost
+2025-02-10,Inventory,0,200000,Decrease inventory
+2025-03-01,Owner's Capital,0,500000,Initial investment
+2025-03-01,Cash,500000,0,Initial investment
